@@ -1,0 +1,51 @@
+
+  .Rectangle {
+  text-align: center;
+    width: 250px;
+    height: 25rem;
+    margin-left:   500px;
+    margin-top: 90px;
+ 
+    padding:100px;
+    border-radius: 10px;
+    box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
+    background-color: #fff;
+  }
+.sign-in{
+    text-align: center;
+    font-size: 40px;
+}
+.tag{
+   
+    color: #696871;
+}
+.button{
+  
+    background-color: red;
+    height: 55px;
+    width: 250px;
+    padding: 5px;
+    border-radius: 16px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+
+}
+.name{
+    padding: 5px;
+}
+body{
+    background-color:
+    #f7f8fa;
+}
+.name2{
+    color: 
+    
+    #5454d4;
+    text-decoration: none;
+}
+.box{
+  size: 50px;
+}
